@@ -12,15 +12,18 @@ keybind = global:ctrl+grave_accent=toggle_quick_terminal
 
 # Ghostty Appearance
 font-family = SF Mono
+window-padding-x = 5
+window-padding-y = 5
 macos-titlebar-style = tabs
 unfocused-split-opacity = 1
 window-padding-color = extend
 window-padding-balance = true
-theme = dark:catppuccin-mocha, light:catppuccin-latte
+theme = dark:Catppuccin Mocha, light:Catppuccin Latte
 
 # Ghostty Icon configuration
-macos-icon = custom-style
-macos-icon-frame = aluminum
-macos-icon-ghost-color = cyan
-macos-icon-screen-color = cyan
+# macos-icon = blueprint
+# macos-icon = custom-style
+# macos-icon-frame = aluminum
+# macos-icon-ghost-color = #89b4fa
+# macos-icon-screen-color = #1e1e2e
 
