@@ -1,0 +1,96 @@
+########
+# TAPS #
+########
+
+tap "jorgelbg/tap" # for pinentry-touchid
+tap "nikitabobko/tap" # for aerospace
+
+############
+# FORMULAE #
+############
+
+# BetterUtils
+brew "fd"       # ~ find
+brew "bat"      # ~ cat
+brew "scc"      # ~ cloc
+brew "eza"      # ~ ls
+brew "btop"     # ~ htop
+brew "ripgrep"  # ~ grep
+brew "sevenzip" # ~ zip
+brew "tealdeer" # ~ man
+
+# Programming Languages
+brew "go"
+brew "zig"
+brew "node"
+brew "ocaml"
+brew "opam"
+brew "python"
+
+# Tooling
+brew "gh"
+brew "fzf"
+brew "git"
+brew "fish"
+brew "just"
+brew "tmux"
+brew "wget"
+brew "typst"
+brew "ffmpeg"
+brew "neovim"
+brew "nushell"
+brew "hyperfine"
+brew "fastfetch"
+
+brew "gnupg"
+brew "pinentry-mac"
+
+brew "timg"
+brew "transmission-cli"
+
+# Compatibility
+brew "cmake"
+
+brew "mpv"
+
+brew "jorgelbg/tap/pinentry-touchid"
+
+################
+# APPLICATIONS #
+################
+
+# Web Browsers
+cask "orion"
+cask "firefox"
+cask "tor-browser"
+
+# Terminal Emulators
+cask "ghostty"
+
+# Text Editors
+cask "codeedit"
+cask "sublime-text"
+cask "visual-studio-code"
+
+# Image Software
+cask "inkscape"
+
+# Utilities
+# cask "skim"
+cask "iina"
+cask "onyx"
+cask "raycast"
+cask "obsidian"
+cask "keycastr"
+# cask "aerospace"
+cask "imageoptim"
+cask "pearcleaner"
+# cask "only-switch"
+# cask "jordanbaird-ice"
+
+# Other Stuff
+cask "whatsapp"
+
+# Fonts :eyes:
+cask "font-sf-mono"
+
